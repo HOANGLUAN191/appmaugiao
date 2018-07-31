@@ -1,15 +1,20 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
 import React, { Component } from 'react';
 import {
   Text,
   View,
   ScrollView,
-  
   Image,
 } from 'react-native'
 import Firebase from 'firebase';
 import { Button, Card, CardSection, Input, Spinner } from './common';
 
 import ic_SignOut from './ic_SignOut.png'
+
+
 class LoginForm extends Component {
   static navigationOptions = {
     tabBarLabel : "LogOut",

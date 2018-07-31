@@ -1,3 +1,8 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
+
 export default (state = null, action) => {
     switch (action.type) {
       case 'select_kindergarten':

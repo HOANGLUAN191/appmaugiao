@@ -1,3 +1,8 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
+
 import { combineReducers } from 'redux';
 import kindergartensReducers from './kindergartensReducers';
 import SelectionReducer from './SelectionReducer';

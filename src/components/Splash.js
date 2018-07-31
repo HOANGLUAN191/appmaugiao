@@ -1,7 +1,12 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
+
 import React, {Component} from 'react'
 
 import Start from "./src/components/Page/Start";
-import { LoginComponent } from './ScreenName';
+import {Login } from './ScreenName';
 
 
 export default class Splash extends Component {
@@ -16,7 +21,7 @@ export default class Splash extends Component {
   }
   render() {
     const { currentScreen } = this.state;
-    let mainScreen = currentScreen === "Start" ? <Start /> : <LoginComponent/>;
+    let mainScreen = currentScreen === "Start" ? <Start /> : <Login/>;
     return mainScreen;
   }
 }

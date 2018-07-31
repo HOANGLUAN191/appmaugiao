@@ -1,3 +1,8 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
+
 import React, { Component } from 'react'
 import {View, Text, ScrollView,Image} from 'react-native';
 import {Provider} from 'react-redux';

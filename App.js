@@ -4,12 +4,7 @@
 
 import React, { Component } from "react";
 import { View } from "react-native";
-
-
-
-
 import { createStackNavigator,createBottomTabNavigator } from 'react-navigation';
-
 import  Home  from "./src/components/Home";
 
 import  Login from "./src/components/Login";

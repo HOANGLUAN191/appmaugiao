@@ -1,3 +1,8 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
+
 import React, { Component } from 'react';
 import {
     AppRegistry, FlatList, StyleSheet, Text, View, Image, Alert,

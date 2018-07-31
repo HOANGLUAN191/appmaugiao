@@ -1,3 +1,7 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
 import React, { Component } from 'react';
 import {Text,
         TouchableWithoutFeedback,

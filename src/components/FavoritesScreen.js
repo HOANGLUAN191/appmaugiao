@@ -1,3 +1,9 @@
+/**
+ * Tran Hoang Luan
+ * 
+ */
+
+
 import React, { Component,PureComponent } from 'react'
 import {
     Text,

@@ -1,6 +1,11 @@
-export const selectLibrary = (libraryId) => {
+/**
+ * Tran Hoang Luan
+ *
+ */
+
+export const selectKindergarten = kindergartenId => {
   return {
-    type: 'select_library',
-    payload: libraryId
+    type: "select_kindergarten",
+    payload: kindergartenId
   };
 };
