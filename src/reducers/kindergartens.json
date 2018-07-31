@@ -1,0 +1,122 @@
+[
+  {
+  	"id": 1,
+    "title": "Trường Mầm Non 19/5",
+    "address": "36, đường Đường 715 Tạ Quang Bửu, Phường 4, Quận 8 Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 3981 3960",
+    "image": "1.jpg",
+    "last_updated": "2016-11-02T16:34:50+07:00",
+    "location": {
+    	"lat": 10.73708,
+    	"lng": 106.6615687
+    }
+  },
+  {
+  	"id": 2,
+    "title": "Trường Mầm Non Việt Mỹ",
+    "address": "51 Đường số 1107, Phường 5, Quận 8, Ho Chi Minh City, Vietnam",
+    "phone": "+84 90 690 59 77",
+    "image": "2.jpg",
+    "last_updated": "2016-07-23T16:34:50+07:00",
+    "location": {
+    	"lat": 10.7358909,
+    	"lng": 106.6665172
+    }
+  },
+  {
+  	"id": 3,
+    "title": "Trường Mầm Non Vành Khuyên",
+    "address": "121 - 123 - 125 Hưng Phú, Phường 8, Quận 8, Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 3859 7401",
+    "image": "3.jpg",
+    "last_updated": "2016-02-27T16:34:50+07:00",
+    "location": {
+    	"lat": 10.7502633,
+    	"lng": 106.6798585
+    }
+  },
+  {
+  	"id": 4,
+    "title": "Trường Mầm Non Thiên Anh",
+    "address": "A12 chung cư Carina Plaza, 1648 Võ Văn Kiệt, Phường 16, Quận 8 Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 6255 2468",
+    "image": "4.jpg",
+    "last_updated": "2016-02-27T06:34:50+07:00",
+    "location": {
+    	"lat": 10.7290708,
+    	"lng": 106.6229796
+    }
+  },  
+  {
+  	"id": 5,
+    "title": "Trường Mầm Non Thỏ Ngọc",
+    "address": "18 Phạm Thế Hiển, Ba Tơ, Phường 7, Quận 8, Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 3850 7402",
+    "image": "5.jpg",
+    "last_updated": "2016-12-27T06:34:50+07:00",
+    "location": {
+    	"lat": 10.707123,
+    	"lng": 106.6238594
+    }
+  },
+  {
+  	"id": 6,
+    "title": "Trường Mầm Non Thế Giới Trẻ Thơ",
+    "address": "Khu Mỹ Thái II, 34-36, Đường số 18, Phường Tân Phú, Quận 7, Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 5417 1270",
+    "image": "6.jpg",
+    "last_updated": "2016-02-27T06:34:50+07:00",
+    "location": {
+    	"lat": 10.7397911,
+    	"lng": 106.708467
+    }
+  },
+  {
+  	"id": 7,
+    "title": "Trường Mầm Non ABC",
+    "address": "459 Huỳnh Tấn Phát, Tân Thuận Đông, Quận 7, Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 3873 3515",
+    "image": "7.jpg",
+    "last_updated": "2017-02-25T06:34:50+07:00",
+    "location": {
+    	"lat": 10.7509887,
+    	"lng": 106.7303747
+    }
+  },
+  {
+  	"id": 8,
+    "title": "Trường Mầm Non Khôi Nguyên",
+    "address": "300 Nguyễn Văn Linh, Bình Thuận, Quận 7, Hồ Chí Minh, Vietnam",
+    "phone": "+84 210 1234 567",
+    "image": "8.jpg",
+    "last_updated": "2017-02-25T06:04:50+07:00",
+    "location": {
+    	"lat": 10.7419576,
+    	"lng": 106.7194333
+    }
+  },
+  {
+  	"id": 9,
+    "title": "Trường Mầm Non Vàng Anh",
+    "address": "1 Nguyễn Trãi, Phường 2, Quận 5, Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 3923 4206",
+    "image": "9.jpg",
+    "last_updated": "2017-01-25T06:04:50+07:00",
+    "location": {
+    	"lat": 10.7590939,
+    	"lng": 106.6837358
+    }
+  },
+  {
+  	"id": 10,
+    "title": "Trường Mầm Non Sơn Ca",
+    "address": "17 Phước Hưng, Phường 8, Quận 5, Hồ Chí Minh, Vietnam",
+    "phone": "+84 8 3853 7282",
+    "image": "10.jpg",
+    "last_updated": "2017-02-27T16:55:50+07:00",
+    "location": {
+    	"lat": 10.7550102,
+    	"lng": 106.6687436
+    }
+  }
+]
